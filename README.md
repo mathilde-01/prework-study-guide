@@ -5,7 +5,7 @@ A study guide for course pre-work.
 ## Description
 This pre-work helps students prepare and get ready for a Coding Bootcamp. The purpose of this Prework Study Guide is to gather all the information learned thoughout the course in one place to use as a reference. 
 
-This pre-work includes the basics of Web development languages, such as HTML, CSS, and Javascript. It also includes notes on how to use Git commands in order to save and share our code with other students.
+This pre-work includes the basics of Web development languages, such as HTML, CSS, and Javascript. It also includes notes on how to use Git in order to save our code and share it with other students.
 
 ## Installation
 
